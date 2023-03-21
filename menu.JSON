@@ -1,0 +1,97 @@
+"menu":[
+	{
+         "nombre":"Hamburgesa",
+         "descripcion":"Es una",
+         "precio": 80,
+         "imagen":"img/Hamburgesa.jpg"
+
+	},
+	{
+         "nombre":"tacos",
+         "descripcion":"Es una",
+         "precio": 80,
+         "imagen":"img/Tacos.jpg"
+
+	},
+	{
+         "nombre":"pozole",
+         "descripcion":"Es una",
+         "precio": 80,
+         "imagen":"img/Pozole.jpg"
+
+	},
+	{
+         "nombre":"tostadas",
+         "descripcion":"Es una",
+         "precio": 80,
+         "imagen":"img/Tostadas.jpg"
+
+	},
+	{
+         "nombre":"quesadillas",
+         "descripcion":"Es una",
+         "precio": 80,
+         "imagen":"img/Quesadila.jpg"
+
+	},
+	{
+         "nombre":"Hamburgesa doble",
+         "descripcion":"Es una",
+         "precio": 80,
+         "imagen":"img/HamburgesaDouble.jpg"
+
+	},
+	{
+         "nombre":"Hot dog",
+         "descripcion":"Es una",
+         "precio": 80,
+         "imagen":"img/Hotdog.jpg"
+
+	},
+	{
+         "nombre":"pasta",
+         "descripcion":"Es una",
+         "precio": 80,
+         "imagen":"img/Pasta.jpg"
+
+	},
+	{
+         "nombre":"pizza",
+         "descripcion":"Es una",
+         "precio": 80,
+         "imagen":"img/jpg"
+
+	},
+	{
+         "nombre":"sopes",
+         "descripcion":"Es una",
+         "precio": 80,
+         "imagen":"img/jpg"
+
+	},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
